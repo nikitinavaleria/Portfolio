@@ -17,3 +17,6 @@
 | 13 | [Прогнозирование количества заказов такси на следующий час](https://github.com/nikitinavaleria/Portfolio/tree/master/Taxi-Timeseries)| Бизнес, Интернет-сервисы, Стартапы | Pandas, Python, Scikit-learn, statsmodels, временные ряды, регрессия, предсказания, машинное обучение |
 | 14 | [Обучение модели классификации комментариев](https://github.com/nikitinavaleria/Portfolio/tree/master/Language-processing/Toxic_comments)| Интернет-сервисы, Стартапы | BERT, Pandas, Python, nltk, tf-idf, NLP, машинное обучение, обработка естественного языка |
 | 15 | [Обучение модели мультиклассовой классификации уровней владения языком](https://github.com/nikitinavaleria/Portfolio/tree/master/Language-processing/Movies) | Интернет-сервисы, Стартапы | Pandas, Python, nltk, tf-idf, NLP, машинное обучение, обработка естественного языка |
+| 16 | [Определение возраста покупателей по фото](https://github.com/nikitinavaleria/Portfolio/tree/master/Faces_detection) | Бизнес, Оффлайн | Python, Keras, нейронные сети, обработка фотографий |
+
+
